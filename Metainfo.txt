@@ -1,4 +1,4 @@
-Name of Quantlet: CPAsimulations
+Name of Quantlet: simulations
 
 Published in: submitted to N/A 
 
